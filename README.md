@@ -56,8 +56,8 @@ The data comes from the National Transportation Safety Board (NTSB) and spans fr
 3. **Weather Condition Impact on Accident Rates**:
    - This visualization shows how different weather conditions affect accident rates, revealing patterns that may influence safety decisions.
 
-For my visualization in Tableau here's a link to the dashboard 
-https://public.tableau.com/app/profile/lydia.mutanu/viz/AircraftAnaysistableaudashboard/FINALDASHBOARD
+Here's my tableau dashboard link
+https://public.tableau.com/app/profile/lydia.mutanu/viz/AircraftAnaysistableaudashboard/AircraftSafetyRiskAnalysis
 
 ## Conclusion
 
